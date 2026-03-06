@@ -40,5 +40,4 @@ Focuses on the "When" and "Where" of Netflix content.
 * **Global Reach:** While North America remains the largest contributor, there is significant content density in India, South Korea, and Western Europe.
 * **Adult-Centric:** Nearly 50% of the library is categorized as "Adult," suggesting Netflix's primary strategy targets mature audiences.
 
----
-Created by [Your Name]
+
